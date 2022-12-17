@@ -1,3 +1,6 @@
 uma nova linha de codigo
 segunda linha de codigo
 terceira linha de codigo
+quarta linha de codigo
+quinta linha de codigo
+sexta linha de codigo
